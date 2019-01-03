@@ -1,0 +1,18 @@
+{
+  "name": "ansi-cursor-position",
+  "version": "0.0.0",
+  "description": "Get the current position of the terminal cursor in an ANSI compatible terminal",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/ansi-cursor-position.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/ansi-cursor-position/issues"
+  },
+  "homepage": "https://github.com/mafintosh/ansi-cursor-position"
+}
