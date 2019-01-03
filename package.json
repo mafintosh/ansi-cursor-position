@@ -1,6 +1,6 @@
 {
   "name": "ansi-cursor-position",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the current position of the terminal cursor in an ANSI compatible terminal",
   "main": "index.js",
   "dependencies": {},
